@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GADS2020</string>
+    <string name="error_data_message">Error loading books from google API</string>
 </resources>
